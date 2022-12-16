@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/marcbenedi#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/marcbenedi#gh-dark-mode-only)
+&nbsp;&nbsp;
+<a rel="me" href="https://masto.ai/@marcb">Mastodon</a>
 
 ___
 
